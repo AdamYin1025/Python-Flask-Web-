@@ -9,18 +9,18 @@
 cd F:\MyWorkingProjects\Flask
 virtualenv venv
 
-* If different verions of Python installed on computer, use below command to set the environment for the projet
+#### If different verions of Python installed on computer, use below command to set the environment for the projet
 virtualenv-p C:\Python37\python.exe venv
 
-* -p parameter designate the path to Python
-* To enable the virtual environment
+#### -p parameter designate the path to Python
+#### To enable the virtual environment
 cd F:\MyWorkingProjects\Flask\venv\Scripts
 activate
-* To disable the virtual environment
+#### To disable the virtual environment
 desactive
-* To delete the virtual environment
+#### To delete the virtual environment
 rmvirtualenv Flask
-* To view 3rd party library installed inside the virtual environment
+#### To view 3rd party library installed inside the virtual environment
 pip list
 
 
