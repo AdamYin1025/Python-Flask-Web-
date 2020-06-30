@@ -31,6 +31,8 @@ Editor > File and Code Tempaltes
 Python Script
 Adding this line:
 #encoding:utf-8
+Restart PyCharm after saving
+
 
 
 
