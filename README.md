@@ -32,9 +32,10 @@ Python Script
 Adding this line:
 #encoding:utf-8
 Restart PyCharm after saving
+#### Using existing virtual environment in PyCharm
 
 
-
+https://www.zhihu.com/pub/reader/119627099/chapter/1139498000626962432
 
 
 
