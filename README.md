@@ -22,5 +22,17 @@ desactive
 rmvirtualenv Flask
 #### To view 3rd party library installed inside the virtual environment
 pip list
+### 1.3-Install PyCharm (skipped)
+#### Create a new Flask project in PyCharm
+File > New Project > Choose Flask
+#### Set default code as UTF-8
+File > Settings
+Editor > File and Code Tempaltes
+Python Script
+Adding this line:
+#encoding:utf-8
+
+
+
 
 
